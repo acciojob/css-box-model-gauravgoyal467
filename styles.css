@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+.container{
+	width:400px;
+	border:15px solid blue;
+	margin:20px;
+}
+.item{
+	background-color:lightblue;
+	padding:50px;
+}
+p{
+	width:300px;
+}
