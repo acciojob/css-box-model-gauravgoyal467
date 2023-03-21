@@ -8,6 +8,7 @@
 	display:inline-block;
 	border:15px solid blue;
 	margin:20px;
+	width:400;
 }
 .div1{
 	background-color:lightblue;
@@ -16,6 +17,4 @@
 .container{
 	border:1px solid black;
 	width:300px;
-	padding:40px 10px ;
-	
 }
