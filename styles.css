@@ -1,14 +1,21 @@
 
 /* Your CSS Code here. */
-.container{
-	width:400px;
+*{
+	margin:0;
+	padding:0;
+}
+.container{	
+	display:inline-block;
 	border:15px solid blue;
 	margin:20px;
 }
-.item{
+.div1{
 	background-color:lightblue;
 	padding:50px;
 }
-p{
+.div2{
+	border:1px solid black;
 	width:300px;
+	padding:40px 10px ;
+	
 }
