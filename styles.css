@@ -4,7 +4,7 @@
 	margin:0;
 	padding:0;
 }
-.container{	
+.container1{	
 	display:inline-block;
 	border:15px solid blue;
 	margin:20px;
@@ -13,7 +13,7 @@
 	background-color:lightblue;
 	padding:50px;
 }
-.div2{
+.container{
 	border:1px solid black;
 	width:300px;
 	padding:40px 10px ;
